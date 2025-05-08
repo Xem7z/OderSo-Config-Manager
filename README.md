@@ -1,5 +1,7 @@
 # 🛠 OderSo Minecraft Client - Config Manager
 
+- This is an unofficial third-party tool and is not developed by or affiliated with the official OderSo Client team.
+
 A themeable and feature-rich configuration manager for Minecraft Bedrock Edition (UWP).
 It helps players manage their `.conf` files easily with a sleek GUI, animated themes, and backup/restore features.
 
