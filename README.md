@@ -55,7 +55,7 @@ The manager uses this path by default:
 
 ## 📬 Feedback & Support
 
-Currently I don't have any specific own discord server to provide. However, you can ping me in this Discord Server:
+Currently I don't have any specific own discord server to provide. However, you can ping me (@x7wn) in this Discord Server:
 **[Discord](https://discord.gg/XN9uPbQ3Bm)**
 
 ---
