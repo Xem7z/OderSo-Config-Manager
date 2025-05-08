@@ -27,12 +27,6 @@ It helps players manage their `.conf` files easily with a sleek GUI, animated th
 2. Download the latest `.exe`
 3. Run it — it will auto-detect your Minecraft UWP config folder
 
-### 🔹 Run from Source (Python)
-
-```bash
-pip install pillow mutagen tkinterdnd2-universal
-python config_fixed.py
-```
 
 ---
 
@@ -51,7 +45,7 @@ The manager uses this path by default:
 
 ---
 
-## 🧑‍💻 Developer Notes
+## 💻 Developer Notes
 
 * Built using `tkinter`, `Pillow`, `mutagen`, and `tkinterdnd2`
 * Fully standalone GUI
