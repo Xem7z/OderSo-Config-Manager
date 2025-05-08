@@ -10,7 +10,6 @@ It helps players manage their `.conf` files easily with a sleek GUI, animated th
 * 🎨 **Multiple Themes**: Dark, Light, and White themes with animated transitions
 * 📁 **OderSo CLient Path Detection**: Automatically finds the config folder
 * 🧲 **Drag & Drop Import**: Just drop `.conf` files to add them
-* 🔄 **Backups & Restore**: Automatically backup and restore `default.conf`
 * ✅ **Default Config Management**: One-click set/reset of default
 * 🧱 **Crosshair & Block Overlay Support**: Add PNGs directly
 * 🔊 **Audio Config Importing**: Add and manage sounds (MP3/WAV/OGG)
